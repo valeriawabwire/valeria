@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Valeria</h1>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/93/74/bd/9374bd8bf5a9d33c8e3ee4dc22dbe994.jpg" alt="Welcome GIF" width="200" height="200">
+  <img src="https://i.pinimg.com/originals/93/74/bd/9374bd8bf5a9d33c8e3ee4dc22dbe994.jpg" alt="Welcome GIF" width="500" height="500">
 </div>
 <h3 align="center">Crafting Code with Creativity and Precision</h3>
 
